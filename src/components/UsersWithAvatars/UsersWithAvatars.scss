@@ -1,0 +1,16 @@
+.blue-background{
+  background-color: lightseagreen;
+  overflow:hidden;
+  display: inline-block;
+
+}
+
+.users-container{
+  background-color: #ffffff;
+  list-style: none;
+  width: 70%;
+  overflow: hidden;
+  box-shadow: 0 0 20px
+  rgba(0, 0, 0, 0.25);
+  margin: 20px auto;
+}

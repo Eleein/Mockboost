@@ -1,0 +1,85 @@
+body {
+    background-image: linear-gradient(to top right, #F69E00,#FBCB00);
+    min-height: 100vh;
+}
+.logo-img {
+    height: 40px;
+    margin-left: 50px;
+}
+
+.header { /*flex for logo and menu*/
+    display: flex;
+    justify-content: space-between;
+}
+.menu-section { /*flex for menu only*/
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    list-style-type: none;
+    width: inherit;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.menu-item{
+    display: inline;
+    margin: 0 20px;
+}
+
+.mission-and-contact { /*a class name for the first two buttons. Different style. */
+    border: 0;
+    color: white;
+    background-color: transparent;
+    padding: 10px 40px;
+}
+
+.mission-and-contact:hover {
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+}
+.registration-and-login { /*the other two buttons*/
+    border: 1px solid #45778D;
+    border-radius: 50px;
+    color: #45778D;
+    padding: 10px 20px;
+    background-color:transparent;
+
+}
+.registration-and-login:hover {
+    border-radius: 50px;
+    background-color: white;
+    color: #45778D;
+}
+/*END OF HEADER---Begin of tag-line and image*/
+.tag-line {
+    color: #ffffff;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+    font-weight: normal;
+}
+.laptop-image {
+    display: block;
+    margin: 0 auto;
+    height: 200px;
+    padding-top: 20px;
+}
+.subtitle{
+    color: #53493C;
+    font-family:Montserrat;
+    font-size: 18px;
+    text-align: center;
+}
+.registration-button{
+    display: block;
+    margin: auto;
+    border: 0;
+    color: white;
+    background-color: rgba(29,80,99,1);
+
+}

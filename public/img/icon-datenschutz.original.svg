@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon-datenschutz</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="dkt-geldboost-lp-v3c" transform="translate(-697.000000, -4674.000000)" stroke="#F69D00" stroke-width="1.2">
+            <g id="section-security-standards" transform="translate(177.000000, 4479.000000)">
+                <g id="icon-datenschutz" transform="translate(521.000000, 196.000000)">
+                    <path d="M22,46 L2,46 C0.8954305,46 2.22044605e-16,45.1045695 0,44 L0,2 C-1.11022302e-16,0.8954305 0.8954305,-5.55111512e-15 2,-5.77315973e-15 L28.58,-5.77315973e-15 C29.1124681,-0.00148164275 29.6235456,0.209427817 30,0.586 L37.4,8 C37.7750987,8.37498546 37.9858867,8.88361037 37.986,9.414 L37.986,16" id="Path"></path>
+                    <path d="M9,20 L11,20 C11.5522847,20 12,20.4477153 12,21 L12,30 L8,30 L8,21 C8,20.4477153 8.44771525,20 9,20 Z" id="Path" fill="#FFF8E1"></path>
+                    <path d="M20,30 L20,15 C20,14.4477153 19.5522847,14 19,14 L17,14 C16.4477153,14 16,14.4477153 16,15 L16,30" id="Path" fill="#FFF8E1"></path>
+                    <path d="M28,22 L28,19 C28,18.4477153 27.5522847,18 27,18 L25,18 C24.4477153,18 24,18.4477153 24,19 L24,30" id="Path" fill="#FFF8E1"></path>
+                    <path d="M5.994,30 L23.994,30" id="Path"></path>
+                    <rect id="Rectangle" x="27.994" y="30.002" width="18" height="15.998" rx="1"></rect>
+                    <circle id="Oval" fill="#FFF8E1" cx="36.994" cy="38.126" r="2.5"></circle>
+                    <path d="M42,27 C41.9999999,24.2385763 39.7614237,22.0000001 37,22.0000001 C34.2385763,22.0000001 32.0000001,24.2385763 32,27 L32,30 L42,30 L42,27 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

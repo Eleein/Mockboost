@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53.2 (72643) - https://sketchapp.com -->
+    <title>060757B8-5C52-4EC1-A126-2F66D9C96E24</title>
+    <desc>Created with sketchtool.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="dkt-geldboost-lp-v2" transform="translate(-312.000000, -5138.000000)" stroke="#F69D00" stroke-width="1.2">
+            <g id="section-security-standards" transform="translate(176.000000, 4943.000000)">
+                <g id="icon-database-lock" transform="translate(137.000000, 196.000000)">
+                    <ellipse id="Oval" fill="#FFF8E1" cx="19.044" cy="8.002" rx="19" ry="8"></ellipse>
+                    <path d="M21.042,23.958 C20.382,23.988 19.718,24.002 19.042,24.002 C8.55,24.002 0.042,20.422 0.042,16.002" id="Path"></path>
+                    <path d="M21.042,32.958 C20.382,32.988 19.718,33.002 19.042,33.002 C8.55,33.002 0.042,29.422 0.042,25.002" id="Path"></path>
+                    <path d="M38.042,17.002 L38.042,8.002" id="Path"></path>
+                    <path d="M0.042,8 L0.042,34 C0.042,38.42 8.55,42 19.042,42 C19.718,42 20.386,41.986 21.042,41.956" id="Path"></path>
+                    <path d="M46.042,44 C46.042,45.1045695 45.1465695,46 44.042,46 L30.042,46 C28.9374305,46 28.042,45.1045695 28.042,44 L28.042,32 C28.042,30.8954305 28.9374305,30 30.042,30 L44.042,30 C45.1465695,30 46.042,30.8954305 46.042,32 L46.042,44 Z" id="Path"></path>
+                    <circle id="Oval" fill="#FFF8E1" cx="37.042" cy="38.128" r="2.5"></circle>
+                    <path d="M42.042,27 C42.042,24.2385763 39.8034237,22 37.042,22 C34.2805763,22 32.042,24.2385763 32.042,27 L32.042,30 L42.042,30 L42.042,27 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

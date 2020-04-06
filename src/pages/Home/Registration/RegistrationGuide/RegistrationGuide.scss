@@ -1,0 +1,27 @@
+$littleTitleColor: rgb(246, 157, 0);
+$littleTitleSize:14px;
+
+.numbers {
+  color: $littleTitleColor;
+  font-size: $littleTitleSize;
+}
+.text-in-bold{
+  color: black;
+}
+
+.registration-instructions{
+  margin: 5px;
+  font-size: $littleTitleSize;
+  font-weight:normal;
+  //white-space: pre;
+  color: black;
+}
+
+.registration-guide{
+  width: 33%;
+}
+.registration-images {
+  width: 20%;
+  padding: 15px;
+}
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>icon-free-registration</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="dkt-geldboost-lp-v3" transform="translate(-264.000000, -3678.000000)" stroke="#F69D00" stroke-width="1.2">
+            <g id="icon-free-registration" transform="translate(265.000000, 3678.000000)">
+                <path d="M36,38 L36,45 C36,46.1045695 35.1045695,47 34,47 L2,47 C0.8954305,47 2.22044605e-16,46.1045695 0,45 L0,9 C-1.11022302e-16,7.8954305 0.8954305,7 2,7 L8,7" id="Path"></path>
+                <path d="M28,7 L34,7 C35.1045695,7 36,7.8954305 36,9 L36,16" id="Path"></path>
+                <path d="M20.83,5 L26,5 C27.1045695,5 28,5.8954305 28,7 L28,9 C28,10.1045695 27.1045695,11 26,11 L10,11 C8.8954305,11 8,10.1045695 8,9 L8,7 C8,5.8954305 8.8954305,5 10,5 L15.17,5" id="Path-2" fill="#FFF8E1"></path>
+                <circle id="Oval" cx="18" cy="3.998" r="3"></circle>
+                <path d="M6,18.998 L30,18.998" id="Path"></path>
+                <path d="M6,26.998 L24.932,26.998" id="Path"></path>
+                <path d="M6,34.998 L21.966,34.998" id="Path"></path>
+                <path d="M33,35 L26,37 L28,30 L39.964,18.036 C41.3510496,16.6932771 43.5586678,16.7111998 44.923734,18.076266 C46.2888002,19.4413322 46.3067229,21.6489504 44.964,23.036 L33,35 Z" id="Path" fill="#FFF8E1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

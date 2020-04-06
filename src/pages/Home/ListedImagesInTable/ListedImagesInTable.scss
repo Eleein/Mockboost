@@ -1,0 +1,35 @@
+.pictures-table {
+
+  border-collapse: collapse;
+  margin: 50px auto;
+  min-width: 400px;
+  text-align: left;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px
+  rgba(0,0,0,0.25);
+}
+
+
+.pictures-table thead tr {
+  background-color: #F69E00;
+  color: #ffffff;
+  text-align: left;
+}
+
+.pictures-table th, td{
+  padding: 12px 15px;
+}
+
+.pictures-table tbody tr{
+  border-bottom: 1px solid #dddddd;
+}
+
+.pictures-table tbody tr:nth-of-type(even){
+  background-color: #f3f3f3;
+}
+
+.api-pics{
+  height: 100px;
+  width: 100px;
+}

@@ -1,0 +1,21 @@
+$leftIndent: 50px;
+$horizontalBlockCenter: 0 auto;
+
+.logo-img {
+  height: 40px;
+  margin-left: $leftIndent;
+}
+
+.logo {
+  display: block;
+  margin:$horizontalBlockCenter;
+}
+
+.header { /*flex for logo and menu*/
+  display: flex;
+  margin-top: 50px;
+  justify-content: space-between;
+  margin-left: $leftIndent;
+  align-items: center;
+}
+

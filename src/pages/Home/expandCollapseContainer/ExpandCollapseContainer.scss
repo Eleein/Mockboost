@@ -1,0 +1,60 @@
+
+.expand-collapse-table {
+
+  border-collapse: collapse;
+  margin: 50px auto;
+  min-width: 400px;
+  text-align: left;
+  border-radius: 5px 5px 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 20px
+  rgba(0,0,0,0.25);
+}
+
+
+.expand-collapse-table thead tr {
+  background-color: #F69E00;
+  color: #ffffff;
+  text-align: left;
+}
+
+.expand-collapse-table th, td{
+  padding: 12px 15px;
+}
+
+.expand-collapse-table tbody tr{
+  border-bottom: 1px solid #dddddd;
+}
+
+.expand-collapse-table tbody tr:nth-of-type(even){
+  background-color: #f3f3f3;
+}
+
+.capital-credit-container {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.first-row-div, .second-row-div, .third-row-div, .name-and-member, .hidden-row {
+
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  font-size:15px;
+}
+
+.hidden-row {
+  background-color: gainsboro;
+  padding-left: 50px;
+    border-top: 1px solid black;
+
+}
+
+.capital-credit{
+  background-color: green;
+  padding: 33px;
+  font-size: 20px;
+  color: white;
+}
+
+

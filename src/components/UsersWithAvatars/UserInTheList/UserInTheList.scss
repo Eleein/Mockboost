@@ -1,0 +1,35 @@
+.users-container{
+  list-style: none;
+  width: 30%;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.25);
+  margin-top: 10px;
+  margin-left:50px;
+}
+
+.list-item{
+  margin: 20px;
+}
+
+.avatars{
+  height: 100px;
+  border-radius: 50px;
+}
+.list-item_container{
+  display:flex;
+}
+.list-item__content{
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.content-header{
+  margin-bottom: 0;
+}
+
+.content-paragraph{
+  margin-top: 1px;
+  color: grey;
+}

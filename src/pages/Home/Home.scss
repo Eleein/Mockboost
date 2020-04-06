@@ -1,0 +1,328 @@
+$leftIndent: 50px;
+$horizontalBlockCenter: 0 auto;
+$littleTitleColor: rgb(246, 157, 0);
+$littleTitleSize:14px;
+
+body {
+  background-image: linear-gradient(to top right, #F69E00, #FBCB00);
+  min-height: 100vh;
+  font-family: Montserrat;
+}
+
+
+
+
+
+
+/*END OF HEADER---Begin of tag-line and image*/
+.tag-line {
+  color: #ffffff;
+  text-align: center;
+  margin: 20px $horizontalBlockCenter;
+  font-size: 60px;
+  font-weight: normal;
+}
+
+.laptop-image {
+  display: block;
+  margin: $horizontalBlockCenter;
+  height: 200px;
+  padding-top: 20px;
+}
+
+/*End: tag line and image. Start: subtitle, registration and sponsors image*/
+.subtitle {
+  color: #53493C;
+  font-family: Montserrat;
+  font-size: 18px;
+  text-align: center;
+}
+
+.registration-button {
+  display: block;
+  margin:$horizontalBlockCenter;
+  border: 1px;
+  border-radius: 50px;
+  color: white;
+  background-color: rgba(29, 80, 99, 1);
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: bold;
+  text-align: center;
+  width: 420px;
+  height: 50px;
+
+  &:hover {
+    color: rgba(29, 80, 99, 1);
+    background-color: #ffffff;
+    cursor: pointer;
+  }
+
+}
+
+.sponsors-image {
+  margin-top: 47px;
+  margin-bottom: 47px;
+}
+
+.floating-element {
+  position: fixed;
+  top: 40%;
+  right: 0;
+  height: 80px;
+  width: 80px;
+  opacity: 1;
+}
+
+/*-------------------END OF SECTION First-Screen----------------------------------*/
+.second-screen {
+  background-color: #ffffff;
+}
+
+
+/*-------HERE BEGINS THE HEADER AND THE P------*/
+.sparen-header {
+  color: rgb(64, 64, 64);
+  font-size: 47px;
+
+  &:after {
+    content: " ";
+    display: block;
+    border-bottom: 3px solid #F69E00;
+    width: 50px;
+    margin:$horizontalBlockCenter;
+    padding-top: 20px;
+  }
+}
+
+.mission-statement {
+
+  color: rgb(120, 120, 120);
+  font-size: 20px;
+  font-style: normal;
+  line-height: 1.5;
+  font-weight: 200;
+  margin-bottom: 7%;
+}
+
+/*-------HERE ENDS THE HEADER AND THE P------*/
+
+/*THIS IS THE BIGGER OUTER CONTAINER(FLEXED).INSIDE ONE COMPONENT(EXTERNAL) & ONE DIV: SPONSORS AND BONUS-CONTAINER*/
+.bonus-and-text {
+  display: flex;
+  justify-content: flex-end;
+}
+.bonus-container {
+  width: 40%;
+  text-align:left;
+}
+.yellow-letters {
+  color: $littleTitleColor;
+  font-size: $littleTitleSize;
+}
+
+.smaller-headers.aligned-left {
+  font-size: 32px;
+  width: 51%;
+  text-align:left;
+  margin: 1%;
+}
+p.bonus-description {
+  color: rgb(120, 120, 120);
+  text-align: left;
+}
+.registration-now {
+  margin: 3% auto;
+  border: 1px;
+  border-radius: 50px;
+  color: white;
+  background-color:$littleTitleColor;;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: bold;
+  width: 300px;
+  height: 44px;
+  &:hover {
+    color: rgba(29, 80, 99, 1);
+    background-color: #ffffff;
+    cursor: pointer;
+    border:1px solid rgba(29, 80, 99, 1);
+  }
+}
+.show-video {
+  margin:$horizontalBlockCenter;
+  border:1px solid rgba(29, 80, 99, 1);
+  border-radius: 50px;
+  color:rgba(29, 80, 99, 1);
+  background-color:#ffffff;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: bold;
+  width: 300px;
+  height: 35px;
+  &:hover {
+    color:#ffffff;
+    background-color:rgba(29, 80, 99, 1);
+  }
+}
+/*HERE ENDS THE BIGGER OUTER CONTAINER*/
+
+/*HERE BEGINS THE SECTION ON SAVING*/
+
+/*HERE ENDS THE SECTION ON SAVING*/
+
+
+
+/*END OF THE DIV(FLEXED) ON BENEFITS*/
+
+/*HERE BEGINS THE SECTION ABOUT REGISTRATION. MADE OF HEADER, DIV AND REGISTRATION COMPONENT */
+
+.bigger-headers{
+  font-size: 48px;
+  font-weight: 500;
+  font-style: normal;
+  color: rgb(64, 64, 64);
+  &:after{
+    content: " ";
+    display: block;
+    border-bottom: 3px solid #F69E00;
+    width: 50px;
+    margin:$horizontalBlockCenter;
+    padding-top: 20px;
+
+  }
+}
+
+
+.instructions-for-registration{
+  display: flex;
+  width: 75%;
+  margin: 0 auto;
+
+}
+
+.registration-now.bigger-button{
+  white-space:nowrap;
+  width: 385px;
+}
+/*HERE ENDS THE SECTION ABOUT REGISTRATION*/
+
+/*BEGIN OF WIN-WIN SECTION IN BLUE*/
+.win-win {
+  background-color:rgba(29, 80, 99, 1);
+  padding-top: 50px;
+}
+.saving-tip {
+  color: #ffffff;
+  text-align: center;
+  margin:0 auto;
+  font-size: 60px;
+  font-weight:normal;
+  width:49%;
+  &:after{
+    content: " ";
+    display: block;
+    border-bottom: 3px solid #F69E00;
+    width: 50px;
+    margin:$horizontalBlockCenter;
+    padding-top: 20px;
+  }
+}
+.tip-description{
+  color: #ffffff;
+  font-size:19px;
+  line-height: 25px;
+  width: 56%;
+  margin: auto;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+/*END OF WIN-WIN SECTION IN BLUE*/
+.bigger-headers.security-standard{
+  width:50%;
+  margin: 0 auto;
+  padding-top:75px;
+  padding-bottom: 25px;
+}
+/*BEGIN OF THE SECURITY-STANDARD COMPONENT*/
+.standards-container{
+  width: 75%;
+  display: flex;
+  margin:0 auto;
+}
+.standard-subtitle{
+  display:block;
+  margin-top:15px;
+}
+
+.sponsors-image.in-grey{
+  width:25%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 40px;
+  padding-bottom: 25px;
+}
+
+.data-protection-button{
+  margin-bottom: 5%;
+  border:1px solid #F69E00;
+  border-radius: 50px;
+  color:#F69E00;
+  background-color:#ffffff;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: bold;
+  width: 300px;
+  height: 35px;
+  &:hover {
+    color:rgba(29, 80, 99, 1);
+    background-color:#ffffff;
+    border:1px solid rgba(29, 80, 99, 1);
+  }
+}
+
+/*HERE ENDS THE SECTION IN WHITE*/
+
+/*HERE BEGINS SECTION IN YELLOW*/
+
+.saving-potential{
+  color: #ffffff;
+  font-size: 48px;
+  width: 50%;
+  line-height: 1.5;
+  margin: 0 auto;
+  padding-top: 70px;
+}
+
+.saving-text{
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 100;
+  width: 45%;
+  margin: 0 auto;
+  padding-top: 15px;
+
+}
+.registration-now.for-saving-section {
+  margin: 3% auto;
+  border: 1px;
+  border-radius: 50px;
+  color: $littleTitleColor;
+  background-color: #ffffff;;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: bold;
+  width: 300px;
+  height: 44px;
+
+  &:hover {
+    color: rgba(29, 80, 99, 1);
+    background-color: #ffffff;
+    cursor: pointer;
+
+  }
+}
+
+
+
+

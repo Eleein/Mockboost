@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba146ad4-7eb5-418a-9b54-46aac0813659" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/DisplayItems/DisplayItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Forms/FormImages/FormImages.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoCheckBox/TodoCheckBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/TodoCheckBox/TodoCheckBox.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/DisplayItems.stories.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stories/TodoCheckBox.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Forms/Forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Forms/Forms.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/HorseComponent/HorseComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HorseComponent/HorseComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/ExpandCollapseContainer.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/stories/ExpandCollapseContainer.stories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Forms.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/stories/Forms.stories.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Pmb0eBJiSdFh29PAkwI5OXQ194" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Dania\WebstormProjects\mockboost\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\src\components\FinReachPage\FinReachSection" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\src\components\Cards" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\stories" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\public\img" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\src\pages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\stories" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\src\components\FinReachPage" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\src\components\Cards" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\src\components\Cards\OneCard" />
+      <recent name="C:\Users\Dania\WebstormProjects\mockboost\src\pages\Home\HorseComponent" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/mockboost/src/pages/Home/Home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba146ad4-7eb5-418a-9b54-46aac0813659" name="Default Changelist" comment="" />
+      <created>1566481996257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566481996257</updated>
+      <workItem from="1566481997702" duration="56723000" />
+      <workItem from="1569921703615" duration="41006000" />
+      <workItem from="1570469405843" duration="13307000" />
+      <workItem from="1570721251085" duration="9027000" />
+      <workItem from="1570966854254" duration="193000" />
+      <workItem from="1570967222131" duration="59213000" />
+      <workItem from="1571650880016" duration="32930000" />
+      <workItem from="1572350197824" duration="66990000" />
+      <workItem from="1573809626103" duration="5194000" />
+      <workItem from="1573837416983" duration="275000" />
+      <workItem from="1574060816863" duration="16116000" />
+      <workItem from="1574235606239" duration="25800000" />
+      <workItem from="1574862010164" duration="17475000" />
+      <workItem from="1575300754836" duration="15661000" />
+      <workItem from="1575376914968" duration="32482000" />
+      <workItem from="1575994068671" duration="50000" />
+      <workItem from="1575994223322" duration="8854000" />
+      <workItem from="1576057654487" duration="13351000" />
+      <workItem from="1576422310114" duration="3492000" />
+      <workItem from="1576492175976" duration="19936000" />
+      <workItem from="1576762212498" duration="9269000" />
+      <workItem from="1578028218076" duration="5453000" />
+      <workItem from="1578152118691" duration="789000" />
+      <workItem from="1578311363851" duration="306000" />
+      <workItem from="1578478655590" duration="5116000" />
+      <workItem from="1580027489953" duration="177000" />
+      <workItem from="1580394513352" duration="5604000" />
+      <workItem from="1580753087224" duration="4672000" />
+      <workItem from="1580818091171" duration="1575000" />
+      <workItem from="1583938234486" duration="1163000" />
+      <workItem from="1584342201887" duration="1171000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575994393782">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="451" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1575994393782" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1580654497087">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1580654497087" />
+    <state x="481" y="94" key="RollbackChangesDialog" timestamp="1576779379011">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="481" y="94" key="RollbackChangesDialog/0.0.1366.768@0.0.1366.768" timestamp="1576779379011" />
+    <state x="390" y="145" width="586" height="478" key="find.popup" timestamp="1584355925680">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="145" width="586" height="478" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1584355925680" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1576075319243">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1576075319243" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1576493322967">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1576493322967" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/Forms/Forms.js</url>
+          <line>88</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
