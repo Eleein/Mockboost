@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba146ad4-7eb5-418a-9b54-46aac0813659" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/DisplayItems/DisplayItems.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Forms/FormImages/FormImages.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoCheckBox/TodoCheckBox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoCheckBox/TodoCheckBox.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/DisplayItems.stories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stories/TodoCheckBox.stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Forms/Forms.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Forms/Forms.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Home/HorseComponent/HorseComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/HorseComponent/HorseComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/ExpandCollapseContainer.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/stories/ExpandCollapseContainer.stories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Forms.stories.js" beforeDir="false" afterPath="$PROJECT_DIR$/stories/Forms.stories.js" afterDir="false" />
-    </list>
+    <list default="true" id="ba146ad4-7eb5-418a-9b54-46aac0813659" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,6 +122,7 @@
       <workItem from="1580818091171" duration="1575000" />
       <workItem from="1583938234486" duration="1163000" />
       <workItem from="1584342201887" duration="1171000" />
+      <workItem from="1586188068388" duration="295000" />
     </task>
     <servers />
   </component>
