@@ -23,9 +23,9 @@ describe("JavaScript testing environment", () => {
     });
     it("it gets words that are not more than 3 characters and uppercases them", () => {
         const expected = ["YOU", "TRY","IT" ];
-        const actual = smallWordsInUpperCase (["you", "will", "try", "it", "although", "this", "will", "most", "likely", "fail"]);
+        const actual = smallWordsInUpperCase (["you", "will", "try", "it", "this", "will", "not", "fail"]);
         expect(actual).toEqual(expected);
-    });
+    })
     it("it converts numbers to string", () => {
         const expected = ["1","2","3","4"];
         const actual = makeIntoString([1,2,3,4]);
