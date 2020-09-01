@@ -11,9 +11,9 @@ import {
 
 describe("closure", () => {
   it("does something", () => {
-    const expected = "I hate this shit";
-    const sentenceMaker = createsSentenceMaker("shit");
-    const actual = sentenceMaker("I hate this");
+    const expected = "I am excited about this";
+    const sentenceMaker = createsSentenceMaker("this");
+    const actual = sentenceMaker("I am excited about");
     expect(actual).toEqual(expected);
   });
   it("creates an iterator", () => {
@@ -65,9 +65,9 @@ describe("closure", () => {
     expect(actual).toEqual(expected);
   })
 });
-it ("creates a function that creates a function that attaches the word bloody to every word", ()=>{
-  const expected = ["bloody JavaScript", "bloody cold", "bloody Germany"];
+it ("creates a function that creates a function that attaches the word intense to every word", ()=>{
+  const expected = ["intense JavaScript", "intense cold", "intense Germany"];
   const bloodyFunction = bloodyFunctionFactory(["JavaScript","cold","Germany"]);
-  const actual = bloodyFunction("bloody");
+  const actual = bloodyFunction("intense");
   expect(actual).toEqual(expected);
 });
